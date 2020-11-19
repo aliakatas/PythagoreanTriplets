@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "pythagore_triplets", "pythagore_triplets\pythagore_triplets.vfproj", "{C0204698-5408-4F6E-9094-43B3E83D7318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0204698-5408-4F6E-9094-43B3E83D7318}.Debug|x64.ActiveCfg = Debug|x64
+		{C0204698-5408-4F6E-9094-43B3E83D7318}.Debug|x64.Build.0 = Debug|x64
+		{C0204698-5408-4F6E-9094-43B3E83D7318}.Debug|x86.ActiveCfg = Debug|Win32
+		{C0204698-5408-4F6E-9094-43B3E83D7318}.Debug|x86.Build.0 = Debug|Win32
+		{C0204698-5408-4F6E-9094-43B3E83D7318}.Release|x64.ActiveCfg = Release|x64
+		{C0204698-5408-4F6E-9094-43B3E83D7318}.Release|x64.Build.0 = Release|x64
+		{C0204698-5408-4F6E-9094-43B3E83D7318}.Release|x86.ActiveCfg = Release|Win32
+		{C0204698-5408-4F6E-9094-43B3E83D7318}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA1FB78-399E-4196-973F-4ABA3D3F8131}
+	EndGlobalSection
+EndGlobal
